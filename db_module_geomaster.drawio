@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T06:45:05.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oNhBCuem9s5SRgLt0Jb6" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T06:49:01.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nLc92cGS4iISkXNUcSTh" version="21.3.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,12 +71,12 @@
         <mxCell id="-_lmY-xBmMYkseRW9HX6-5" value="Save Provided Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="568" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-_lmY-xBmMYkseRW9HX6-8" value="Redirected to Operation screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="658" width="190" height="30" as="geometry" />
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-8" value="Redirected to Operations screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="219" y="650" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-_lmY-xBmMYkseRW9HX6-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="730" as="sourcePoint" />
+            <mxPoint x="-160" y="730" as="sourcePoint" />
             <mxPoint x="560" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -104,17 +104,17 @@
             <mxPoint x="429.58000000000004" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-_lmY-xBmMYkseRW9HX6-14" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Insert Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="800" width="100" height="50" as="geometry" />
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-14" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Update &lt;br&gt;Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="800" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-_lmY-xBmMYkseRW9HX6-15" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Update Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="800" width="100" height="50" as="geometry" />
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-15" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Delete &lt;br&gt;Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="800" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-_lmY-xBmMYkseRW9HX6-16" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Delete Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="800" width="100" height="50" as="geometry" />
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-16" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Read &lt;br&gt;Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="800" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-_lmY-xBmMYkseRW9HX6-18" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Read Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="800" width="100" height="50" as="geometry" />
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-18" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Special Query Operation like join etc.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="800" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_lmY-xBmMYkseRW9HX6-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-_lmY-xBmMYkseRW9HX6-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,11 +122,20 @@
             <mxPoint x="560" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-_lmY-xBmMYkseRW9HX6-20" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Special Query Operation like join etc.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-20" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Add More &lt;br&gt;Tables&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="800" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_lmY-xBmMYkseRW9HX6-21" value="( Below operations can be shown with the help of multiple buttons )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="688" width="380" height="30" as="geometry" />
+          <mxGeometry x="-150" y="688" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-_lmY-xBmMYkseRW9HX6-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="730" as="sourcePoint" />
+            <mxPoint x="-160" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_lmY-xBmMYkseRW9HX6-23" value="&lt;span style=&quot;font-style: normal;&quot;&gt;Insert &lt;br&gt;Operation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="800" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
